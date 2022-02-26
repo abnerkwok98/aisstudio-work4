@@ -27,4 +27,6 @@ PaddlePaddle 2.0.2
 ### 4.1训练
 项目的详细代码在[此项目](https://aistudio.baidu.com/aistudio/projectdetail/3526021)中
 ## 5.结果展示
-![]
+![avator](https://github.com/abnerkwok98/aisstudio-work4/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-02-26%20132257.png)
+## 6.最后
+欢迎fork交流
