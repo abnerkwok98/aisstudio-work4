@@ -23,4 +23,8 @@ PaddlePaddle 2.0.2
 | 显存  | 16GB |
 | 磁盘  | 100GB |
 ## 4.训练模型
-训练前先下好code文件夹
+训练前先下好code.zip并解压到自己想要的文件夹下。
+### 4.1训练
+项目的详细代码在[此项目](https://aistudio.baidu.com/aistudio/projectdetail/3526021)中
+## 5.结果展示
+![]
